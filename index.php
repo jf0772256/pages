@@ -3,5 +3,5 @@
 //written by Jesse Fender
 //purpose: to display basic views or redirect to back end files.
 
-echo "test string - home";
+include "view/home.php";
 ?>

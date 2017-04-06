@@ -4,5 +4,6 @@
     <p>&copy; <?php echo date('Y'); ?> Jesse Fender</p>
   </div>
 </div>
+<script src="./js/app.js"></script>
 </body>
 </html>
